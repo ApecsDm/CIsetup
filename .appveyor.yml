@@ -1,7 +1,8 @@
 image: Ubuntu
+
 stack: jdk 11
 
-chmod +x gradlew
+- chmod +x gradlew
 
 branches:
   only:
